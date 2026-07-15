@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mogal Muzamil
+# Hi 👋, I'm Mogal Muzammil
 
 ### Aspiring Java Full Stack Developer | Final-Year B.Tech (ECE) Student
 
